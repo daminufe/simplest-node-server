@@ -1,3 +1,3 @@
 require('http')
-    .createServer((request, response) => response.end(request.url))
-    .listen(3000, () => console.log('Server running @ port 3000'))
+    .createServer((req, res) => res.end(req.url))
+    .listen(port=3000, () => console.log(`Server running @ port ${port}`))
