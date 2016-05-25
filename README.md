@@ -1,6 +1,6 @@
 # Simplest Node HTTP server
 
-[![Simplest Node HTTP server](https://img.youtube.com/vi/b7MTiGeU2Mc/0.jpg)](https://www.youtube.com/watch?v=b7MTiGeU2Mc)
+[![Simplest Node HTTP server](https://img.youtube.com/vi/b7MTiGeU2Mc/0.jpg)](https://www.youtube.com/watch?v=b7MTiGeU2Mcgit)
 
 ## Reason to have it
 
